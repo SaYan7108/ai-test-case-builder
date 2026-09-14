@@ -19,6 +19,7 @@ Summary of the 5 cases generated:
 | TC_LOGIN_03 | Login with invalid/incorrect password | Negative |
 | TC_LOGIN_04 | Login with empty username and password | Edge / validation |
 | TC_LOGIN_05 | Login with valid username, empty password | Edge / validation |
+<img width="1750" height="808" alt="Screenshot 2026-09-14 201448" src="https://github.com/user-attachments/assets/2bf2909a-e88c-460a-8fd6-6574a785afb9" />
 
 ## 2. Automated Script
 
